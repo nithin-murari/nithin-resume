@@ -1,0 +1,25 @@
+@import "utils";
+@import "colors";
+@import "typography";
+/********************** General CSS  ************/
+@import "general";
+/********** Description Component CSS ************/
+@import "components/description";
+/************ Heading Component *****************/
+@import "components/heading";
+/************ Work Experience Component ************/
+@import "components/work-experience";
+/**************** Education Details Component ******/
+@import "components/education";
+/**************** Skills Component **************/
+@import "components/skills";
+/**************** Achievements Component **********/
+@import "components/achievements";
+/**************** Certificate Component **********/
+@import "components/certificate";
+/**************** Hobbies Component **********/
+@import "components/hobbies";
+/**************** Tools Component **********/
+@import "components/tools";
+/**************** Footer Component **************/
+@import "components/footer";
