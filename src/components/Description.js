@@ -42,12 +42,13 @@ function Description() {
         </div>
       </div>
       <div className="Description__Summary">
-        Knowledgeable Frontend developer with <strong>3+</strong> years of
+        Knowledgeable Individual with <strong>3+</strong> years of
         experience who adept at creating web and mobile applications which meet
         customer needs. Specialized in collaborating with customers to gather
         requirements, produce plans and improve designs for usability and
         functionality.
       </div>
+      {/* <div className="Hello_Anime"></div> */}
     </div>
   );
 }

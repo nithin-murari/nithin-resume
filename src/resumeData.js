@@ -20,7 +20,10 @@ export const WorkExperiences = [
     endDate: "",
     location: "Chennai",
     rolesandResp: [
-      "Maintained Multiple Applications Successfully",
+      "Delivered a Discount management System for Finance Team using Hadoop based on Historic data.",
+      "Worked as Devops Resource to support the production as well.",
+      "Provided few automation to Customers on the Financial report based on MatplotLib.",
+      "Devoleped Various TrafficScripts to maintain the GeoRedundancy of the Application. ",
       "Delivered few POCs on Content Management and Hadoop Eco Systems Successfully.",
       "Received Appreciations and awards from Organization and Client for handling multiple projects.",
     ],
@@ -31,6 +34,7 @@ export const Skills = [
   "Python",
   "Linux",
   "C",
+  "Hadoop",
   "SQL",
   "Hive",
   "AWS",
@@ -117,6 +121,13 @@ export const certificationsList = [
     instituteName: "Microsoft",
     path: Cert_RJC,
   },
+  {
+    name: "Google Cloud Professional Data Engineer",
+    completionDate: "09/2021",
+    instituteName: "Google",
+    path: Cert_RJC,
+  
+  }
 ];
 export const toolsUsed = [
   "VS Code",
@@ -127,7 +138,8 @@ export const toolsUsed = [
   "SQL Developer",
   "puTTy",
   "Filezilla",
-  "GIT Bash"
+  "GIT Bash",
+  "Eclipse"
 ];
 export const hobbies = ["Cricket", "Badminton", "Cooking", "Travelling"];
 // export const
