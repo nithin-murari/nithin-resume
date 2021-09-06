@@ -20,6 +20,7 @@ export const WorkExperiences = [
     endDate: "",
     location: "Chennai",
     rolesandResp: [
+      "Trained and Certified in Big Data",
       "Delivered a Discount management System for Finance Team using Hadoop based on Historic data.",
       "Worked as Devops Resource to support the production as well.",
       "Provided few automation to Customers on the Financial report based on MatplotLib.",
