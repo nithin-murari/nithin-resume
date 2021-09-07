@@ -1,8 +1,11 @@
-import Applause from "Images/Certificates/Applause_Award.pdf";
+import Applause from "Images/Certificates/On_The_Spot_Award.pdf";
 import FPA from "Images/Certificates/Fresco_Play_Miles_Award.pdf";
-import SLGAH from "Images/Certificates/Star_Of_the_Learners_Group_Award_Hackathon.pdf";
-import SLGAI from "Images/Certificates/Star_Of_the_Learners_Group_Award_ILP.pdf";
-import Cert_RJC from "Images/Certificates/ReactJS__Certificate.pdf";
+import BTA from "Images/Certificates/Best_Team_Award.pdf";
+import SLGAH from "Images/Certificates/Learning_Achievement_Award.pdf";
+import SLGAI from "Images/Certificates/ILP_Kudos_Award.pdf";
+import Cert_MPYC from "Images/Certificates/Microsoft DAT208x Certificate _ edX.pdf";
+import Cert_VPYC from "Images/Certificates/58191_Python_certificate.pdf";
+import Cert_GPDEC from "Images/Certificates/58191_Python_certificate.pdf";
 
 export const name = "Nithin Murarisetty";
 export const currDesignation = "Systems Engineer";
@@ -20,12 +23,13 @@ export const WorkExperiences = [
     endDate: "",
     location: "Chennai",
     rolesandResp: [
+      "Trained and Certified in Big Data",
       "Delivered a Discount management System for Finance Team using Hadoop based on Historic data.",
       "Worked as Devops Resource to support the production as well.",
-      "Provided few automation to Customers on the Financial report based on MatplotLib.",
-      "Devoleped Various TrafficScripts to maintain the GeoRedundancy of the Application. ",
-      "Delivered few POCs on Content Management and Hadoop Eco Systems Successfully.",
-      "Received Appreciations and awards from Organization and Client for handling multiple projects.",
+      "Provided Multiple automation to Customers on the Financial report based on MatplotLib.",
+      "Devoleped Multiple TrafficScripts to maintain the GeoRedundancy of the Application. ",
+      "Delivered Couple of POCs on Content Management and Hadoop Eco Systems Successfully.",
+      "Received Appreciations and Awards from Organization and Client for handling multiple projects Simultaneously.",
     ],
   },
 
@@ -33,14 +37,15 @@ export const WorkExperiences = [
 export const Skills = [
   "Python",
   "Linux",
-  "C",
   "Hadoop",
   "SQL",
-  "Hive",
+  "GCP",
   "AWS",
+  "Hive",
+  "C",
   "JAVA",
   "SVN",
-  "GCP",
+  "GIT",
 ];
 
 export const AchievementsList = [
@@ -51,31 +56,38 @@ export const AchievementsList = [
       "Promoted to the Digital cadre for my exceptional performance in TCS Internal Digital Assessment.",
   },
   {
+    name: "Best Team Award",
+    yearOfRelease: "2019,2020",
+    certSummary:
+      "Received this Award as an Appreciation from Management for the Exceptional Performance of Team over the Project Transistion",
+    path: BTA,
+  },
+  {
     name: "On the Spot Award",
     yearOfRelease: "2019",
     certSummary:
-      "Received this award for Contribution on the Multiple Migrations Performed successfully",
+      "Received this Award for Contribution on the Multiple Migrations Performed successfully",
     path: Applause,
   },
   {
     name: "Fresco Play Award",
     yearOfRelease: "2019",
     certSummary:
-      "Received this award as one of the best learners in Digital Technologies",
+      "Received this Award as one of the best learners in Digital Technologies",
     path: FPA,
   },
   {
     name: "Star Performer Award",
     yearOfRelease: "2018",
     certSummary:
-      "Received this award for my exceptional performance in TCS Global Hackathon 2018",
+      "Received this Award for my exceptional performance in TCS Global Hackathon 2018",
     path: SLGAH,
   },
   {
-    name: "Best Performer Award",
+    name: "ILP Kudos Award",
     yearOfRelease: "2018",
     certSummary:
-      "Received this award for my exceptional performance during training period",
+      "Received this Award for my exceptional performance during training period",
     path: SLGAI,
   },
 ];
@@ -113,19 +125,19 @@ export const certificationsList = [
     name: "Python Developer",
     completionDate: "02/2021",
     instituteName: "V Skills",
-    path: Cert_RJC,
+    path: Cert_VPYC,
   },
   {
     name: "Python For DataScience",
     completionDate: "02/2020",
     instituteName: "Microsoft",
-    path: Cert_RJC,
+    path: Cert_MPYC,
   },
   {
     name: "Google Cloud Professional Data Engineer",
     completionDate: "09/2021",
     instituteName: "Google",
-    path: Cert_RJC,
+    path: Cert_GPDEC,
   
   }
 ];
