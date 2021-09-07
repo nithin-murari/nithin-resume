@@ -23,10 +23,10 @@ export const WorkExperiences = [
       "Trained and Certified in Big Data",
       "Delivered a Discount management System for Finance Team using Hadoop based on Historic data.",
       "Worked as Devops Resource to support the production as well.",
-      "Provided few automation to Customers on the Financial report based on MatplotLib.",
-      "Devoleped Various TrafficScripts to maintain the GeoRedundancy of the Application. ",
-      "Delivered few POCs on Content Management and Hadoop Eco Systems Successfully.",
-      "Received Appreciations and awards from Organization and Client for handling multiple projects.",
+      "Provided Multiple automation to Customers on the Financial report based on MatplotLib.",
+      "Devoleped Multiple TrafficScripts to maintain the GeoRedundancy of the Application. ",
+      "Delivered Couple of POCs on Content Management and Hadoop Eco Systems Successfully.",
+      "Received Appreciations and Awards from Organization and Client for handling multiple projects Simultaneously.",
     ],
   },
 
@@ -34,14 +34,15 @@ export const WorkExperiences = [
 export const Skills = [
   "Python",
   "Linux",
-  "C",
   "Hadoop",
   "SQL",
-  "Hive",
+  "GCP",
   "AWS",
+  "Hive",
+  "C",
   "JAVA",
   "SVN",
-  "GCP",
+  "GIT",
 ];
 
 export const AchievementsList = [
@@ -52,31 +53,38 @@ export const AchievementsList = [
       "Promoted to the Digital cadre for my exceptional performance in TCS Internal Digital Assessment.",
   },
   {
+    name: "Best Team Award",
+    yearOfRelease: "2019,2020",
+    certSummary:
+      "Received this Award as an Appreciation from Management for the Exceptional Performance of Team over the Project Transistion",
+    path: FPA,
+  },
+  {
     name: "On the Spot Award",
     yearOfRelease: "2019",
     certSummary:
-      "Received this award for Contribution on the Multiple Migrations Performed successfully",
+      "Received this Award for Contribution on the Multiple Migrations Performed successfully",
     path: Applause,
   },
   {
     name: "Fresco Play Award",
     yearOfRelease: "2019",
     certSummary:
-      "Received this award as one of the best learners in Digital Technologies",
+      "Received this Award as one of the best learners in Digital Technologies",
     path: FPA,
   },
   {
     name: "Star Performer Award",
     yearOfRelease: "2018",
     certSummary:
-      "Received this award for my exceptional performance in TCS Global Hackathon 2018",
+      "Received this Award for my exceptional performance in TCS Global Hackathon 2018",
     path: SLGAH,
   },
   {
-    name: "Best Performer Award",
+    name: "ILP Kudos Award",
     yearOfRelease: "2018",
     certSummary:
-      "Received this award for my exceptional performance during training period",
+      "Received this Award for my exceptional performance during training period",
     path: SLGAI,
   },
 ];
