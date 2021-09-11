@@ -5,7 +5,7 @@ import SLGAH from "Images/Certificates/Learning_Achievement_Award.pdf";
 import SLGAI from "Images/Certificates/ILP_Kudos_Award.pdf";
 import Cert_MPYC from "Images/Certificates/Microsoft DAT208x Certificate _ edX.pdf";
 import Cert_VPYC from "Images/Certificates/58191_Python_certificate.pdf";
-import Cert_GPDEC from "Images/Certificates/58191_Python_certificate.pdf";
+import Cert_GPDEC from "Images/Certificates/gcp_pde.pdf";
 
 export const name = "Nithin Murarisetty";
 export const currDesignation = "Systems Engineer";
