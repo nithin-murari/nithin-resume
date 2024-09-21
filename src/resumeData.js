@@ -20,19 +20,18 @@ export const linkedIn = {
   url: "https://www.linkedin.com/in/nithin-murari-68a479147/"};
 export const WorkExperiences = [
   {
-    designation: "Project Associate",
+    designation: "Associate",
     company: "Cognizant Technology Solutions",
     startDate: "01/2022",
     endDate: "",
     location: "Chennai",
     rolesandResp: [
-      "Trained and Certified in Big Data",
-      "Delivered a Discount management System for Finance Team using Hadoop based on Historic data.",
-      "Worked as Devops Resource to support the production as well.",
-      "Provided Multiple automation to Customers on the Financial report based on MatplotLib.",
-      "Devoleped Multiple TrafficScripts to maintain the GeoRedundancy of the Application. ",
-      "Delivered Couple of POCs on Content Management and Hadoop Eco Systems Successfully.",
-      "Received Appreciations and Awards from Organization and Client for handling multiple projects Simultaneously.",
+      "Designed and managed ETL workflows using AWS MWAA Airflow, optimizing the data flow and ensuring efficient processing for media streaming data collected from multiple ad sources.",
+      "Implemented scalable, serverless data processing solutions using AWS Glue, enhancing data transformation and extraction efficiency for high-volume datasets.",
+      "Utilized Snowflake as the primary database for managing and querying large-scale data, ensuring seamless integration and high performance in data analytics processes.",
+      "Leveraged AWS S3 for robust and secure data storage, maintaining high availability and durability for large datasets.",
+      "Developed and deployed AWS Lambda functions to automate routine tasks, streamlining operations and reducing manual intervention.",
+      "Worked closely with Clients to deliver tailored data engineering solutions that meet specific client requirements, improving overall data strategy and execution.",
     ],
   },
   {
@@ -42,13 +41,13 @@ export const WorkExperiences = [
     endDate: "01/2022",
     location: "Chennai",
     rolesandResp: [
-      "Trained and Certified in Big Data",
-      "Delivered a Discount management System for Finance Team using Hadoop based on Historic data.",
-      "Worked as Devops Resource to support the production as well.",
-      "Provided Multiple automation to Customers on the Financial report based on MatplotLib.",
-      "Devoleped Multiple TrafficScripts to maintain the GeoRedundancy of the Application. ",
-      "Delivered Couple of POCs on Content Management and Hadoop Eco Systems Successfully.",
-      "Received Appreciations and Awards from Organization and Client for handling multiple projects Simultaneously.",
+      "Demonstrated exceptional proficiency in Big Data technologies through rigorous training and certification.",
+      "Successfully delivered a Discount Management System for the finance team using Hadoop, expertly leveraging historic data for improved financial outcomes.",
+      "Acted as a DevOps resource, meticulously providing production support to ensure continuous stability and efficiency of critical applications.",
+      "Skillfully developed multiple automation tools for generating financial reports using Matplotlib, significantly streamlining reporting processes.",
+      "Engineered multiple TrafficScripts with precision to strategically maintain geo-redundancy, ensuring high availability and robust disaster recovery.",
+      "Consistently delivered POCs on content management and Hadoop ecosystems, effectively showcasing innovation and technical expertise.",
+      "Earned widespread recognition and multiple awards from both the organization and clients for expertly managing and delivering multiple projects simultaneously.",
     ],
   },
 
@@ -120,23 +119,6 @@ export const edDtls = [
     toDate: "05/2018",
     specialisation: "Electronics and Communications",
   },
-  {
-    degreeName: "Intermediate",
-    instituteName: "Narayana Jr.College",
-    location: "Nellore",
-    fromDate: "06/2012",
-    toDate: "05/2014",
-    specialisation: "MPC",
-    score: 96.3,
-  },
-  {
-    degreeName: "SSC",
-    instituteName: "Navodaya E.M High School",
-    location: "Naidupeta",
-    fromDate: "05/2011",
-    toDate: "04/2012",
-    score: 87,
-  },
 ];
 export const certificationsList = [
   {
@@ -146,7 +128,7 @@ export const certificationsList = [
     path: Cert_VPYC,
   },
   {
-    name: "Python For DataScience",
+    name: "Python For Data Science",
     completionDate: "02/2020",
     instituteName: "Microsoft",
     path: Cert_MPYC,
