@@ -1,5 +1,4 @@
 import Applause from "Images/Certificates/On_The_Spot_Award.pdf";
-import FPA from "Images/Certificates/Fresco_Play_Miles_Award.pdf";
 import BTA from "Images/Certificates/Best_Team_Award.pdf";
 import CTBPA from "Images/Certificates/CTS_Star_Performer_Award.pdf";
 import SLGAH from "Images/Certificates/Learning_Achievement_Award.pdf";
