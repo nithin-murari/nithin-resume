@@ -18,12 +18,12 @@ function App() {
         <div>
           <WorkExperience />
           <Cerifications />
-          <Education />
         </div>
         <div>
           <Skills />
           <Tools />
           <Achievements />
+          <Education />
           <Hobbies />
         </div>
       </div>
