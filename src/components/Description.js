@@ -43,7 +43,7 @@ function Description() {
       </div>
       <div className="Description__Summary">
         Knowledgeable Individual with <strong>6+</strong> years of
-        experience who adept at Develop and Deliver Applications which meet
+        experience who adept at develop and deliver scalableapplications which meet
         customer needs. Specialized in collaborating with customers to gather
         requirements, produce plans and improve designs for usability and
         functionality .
