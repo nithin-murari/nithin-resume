@@ -42,11 +42,7 @@ function Description() {
         </div>
       </div>
       <div className="Description__Summary">
-        Knowledgeable Individual with <strong>6+</strong> years of
-        experience who adept at develop and deliver scalable applications which meet
-        customer needs. Specialized in collaborating with customers to gather
-        requirements, produce plans and improve designs for usability and
-        functionality .
+      Experienced professional with <strong>6+</strong> years in developing and delivering scalable applications to meet customer needs. Skilled in collaborating with clients to gather requirements, create plans, and enhance designs for improved usability and functionality.
       </div>
       {/* <div className="Hello_Anime"></div> */}
     </div>
