@@ -68,41 +68,41 @@ export const AchievementsList = [
     name: "Best Performer Award",
     yearOfRelease: "2023",
     certSummary:
-      "Awarded recognition of my outstanding performance and exceptional contribution on AWS and Snowflake Technologies.",
+      "Recognized for exceptional contributions to AWS and Snowflake.",
       path: CTBPA,
   },
   {
     name: "TCS Digital Cadre",
     yearOfRelease: "2021",
     certSummary:
-      "Promoted to the Digital cadre for my exceptional performance in TCS Internal Digital Assessment.",
+      "Promoted for excellence in the Digital Assessment.",
   },
   {
     name: "Best Team Award",
     yearOfRelease: "2019,2020",
     certSummary:
-      "Received this Award as an Appreciation from Management for the Exceptional Performance of Team over the Project Transistion",
+      "Awarded for leading the team during Project Transition.",
     path: BTA,
   },
   {
     name: "On the Spot Award",
     yearOfRelease: "2019",
     certSummary:
-      "Received this Award for Contribution on the Multiple Migrations Performed successfully",
+      "Honored for successful completion of multiple migrations.",
     path: Applause,
   },
   {
     name: "Star Performer Award",
     yearOfRelease: "2018",
     certSummary:
-      "Received this Award for my exceptional performance in TCS Global Hackathon 2018",
+      "Recognized for achievements in the Global Hackathon.",
     path: SLGAH,
   },
   {
     name: "ILP Kudos Award",
     yearOfRelease: "2018",
     certSummary:
-      "Received this Award for my exceptional performance during training period",
+      "Celebrated for excellence during the training period.",
     path: SLGAI,
   },
 ];
