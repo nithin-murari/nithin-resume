@@ -5,7 +5,8 @@ import SLGAH from "Images/Certificates/Learning_Achievement_Award.pdf";
 import SLGAI from "Images/Certificates/ILP_Kudos_Award.pdf";
 import Cert_MPYC from "Images/Certificates/Microsoft DAT208x Certificate _ edX.pdf";
 import Cert_VPYC from "Images/Certificates/58191_Python_certificate.pdf";
-import Cert_AWS from "Images/Certificates/AWS Certified Cloud Practitioner certificate.pdf";
+import Cert_AWS_CCP from "Images/Certificates/AWS Certified Cloud Practitioner certificate.pdf";
+import Cert_AWS_SAA from "Images/Certificates/AWS Certified Solutions Architect - Associate certificate.pdf";
 import Cert_Snowflake from "Images/Certificates/Snowflake_snowprocore.pdf";
 import Cert_GCPPDE from "Images/Certificates/gcp_pde.pdf";
 
@@ -28,6 +29,7 @@ export const WorkExperiences = [
       "Orchestrated ETL workflows with AWS MWAA, optimizing pipelines from SFTP, MSSQL, and Snowflake, achieving 60% faster execution and 30% cost savings.",
       "Built scalable serverless data pipelines with AWS Glue, boosting efficiency by 25% and cutting costs by eliminating server dependencies.",
       "Leveraged Snowflake for scalable data management and analytics, ensuring high performance and system resilience against datacenter failures.",
+      "Streamlined data warehouse operations, achieving a substantial decrease in execution time from 2 hours to 45 minutes by optimizing SQL queries and Snowflake data clustering.",
       "Utilized AWS S3 for secure, scalable storage, implementing versioning, encryption, and lifecycle policies to optimize costs and ensure data security.",
       "Developed AWS Lambda functions to automate tasks, saving 8 man-hours weekly and boosting operational efficiency.",
       "Delivered tailored data engineering solutions, achieving 95% data accuracy and enhancing client satisfaction and decision-making.",
@@ -147,25 +149,31 @@ export const certificationsList = [
     name: "AWS Certified Cloud Practitioner",
     completionDate: "08/2024",
     instituteName: "AWS",
-    path: Cert_AWS,
+    path: Cert_AWS_CCP,
+  },
+  {
+    name: "AWS Certified Solutions Architect - Associate",
+    completionDate: "01/2025",
+    instituteName: "AWS",
+    path: Cert_AWS_SAA,
   },
 ];
 export const toolsUsed = [
   "VS Code",
-  "Jupyter Notebook",
-  "PyCharm",
   "GitHub For Desktop",
-  "SQL Developer",
-  "SSMS",
-  "Visual Studio",
-  "GIT Bash",
-  "Eclipse",
   "Azure Pipeline",
   "WinSCP",
   "Jira",
   "FileZilla",
+  "SSMS",
+  "Jupyter Notebook",
+  "PyCharm",
+  "SQL Developer",
+  "Visual Studio",
+  "GIT Bash",
+  "Eclipse",
   "Postman",
   "Tableau",
   "Power BI",
 ];
-export const hobbies = ["Cricket", "Badminton", "Cooking", "Travelling", "Swimming"];
+export const hobbies = ["Badminton", "Cooking", "Travelling", "Swimming"];
